@@ -1,0 +1,19 @@
+/* 
+doubt---
+
+readfile se jo hm dat read kr rhe use ak verbile me store krane ke bad 
+writefile me add likhna chahte he pr vha error aa rhi ki yha data string me 
+hi diya jayga ye buffer me diya jayga 
+
+
+doubt soulution --- hm read file ke sathe hi hato hath hi write file kr rhe the 
+esliy error aarh a he 
+readfile ak asynchorons li run krta he jo ki jb hmare code ko read krne me time 
+lg rha the or uske sathe usne aage ke codde ko excute kr diya jisse write file 
+jb hm jo read data ko store krvaya tha usme save hi nhi huaa or vha write file me 
+data hi nhi aaya esliy data error aa rha he 
+
+*/
+
+https://nodejs.dev/en/learn/   learn
+
